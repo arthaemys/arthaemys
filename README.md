@@ -1,5 +1,3 @@
-Sure, here is a sample README file for a hypothetical project:
-
 # My Cool Project
 
 Welcome to My Cool Project! This is a simple app that does something really cool. I built this app as part of a coding challenge, and I'm excited to share it with you.
